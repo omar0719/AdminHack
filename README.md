@@ -20,7 +20,7 @@ today we will hack the admin panel of the site
 * `apt update`
 * `apt upgrade`
 * `apt install git`
-* `git clone https://github.com/sadamshr3be/AdminHack`
+* `git clone https://github.com/berfinaloush@gmail.comtxt`
 * `cd AdminHack`
 * ` unzip src.zip`
 * `bash setup.sh`
